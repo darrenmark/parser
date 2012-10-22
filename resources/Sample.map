@@ -1,0 +1,8 @@
+root.name_string=county@name
+root.cities.name_string=..city@name
+root.cities.name_string=..city@name
+root.cities.schools.address_string=..school@address
+root.cities.schools.maxStudent_long=..school@maxStudent
+root.cities.schools.class.grade_int=..class@grade
+root.cities.schools.class.student.firstName_string=..student.firstName
+root.cities.schools.class.student.lastName_string=..student.lastName

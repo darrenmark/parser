@@ -1,0 +1,17 @@
+root.storageArray.objectId_string = HiCommandServerMessage.Response.ResultList.StorageArray@objectID
+root.storageArray.name_string = ..StorageArray@name
+root.storageArray.serialNumber_string = ..StorageArray@serialNumber
+root.storageArray.arrayFamily_string = ..StorageArray@arrayFamily
+root.storageArray.arrayGroup.objectId_string = ..ArrayGroup@objectID
+root.storageArray.arrayGroup.raidType_string = ..ArrayGroup@raidType
+root.storageArray.arrayGroup.pdev.objectId_string = ..PDEV@objectID
+root.storageArray.arrayGroup.pdev.vendor_string = ..PDEV@vendor
+root.storageArray.arrayGroup.pdev.model_string = ..PDEV@model
+root.storageArray.arrayGroup.pdev.logicalUnit.objectId_string = ..LogicalUnit@objectID
+root.storageArray.arrayGroup.pdev.logicalUnit.capacityInKB_long = ..LogicalUnit@capacityInKB
+root.storageArray.arrayGroup.pdev.logicalUnit.ldev.objectId_string = ..LDEV@objectID
+root.storageArray.arrayGroup.pdev.logicalUnit.ldev.sizeInKB_long = ..LDEV@sizeInKB
+root.storageArray.arrayGroup.pdev.logicalUnit.path.objectId_string = ..Path@objectID
+root.storageArray.arrayGroup.pdev.logicalUnit.path.scsiId_string = ..Path@scsiID
+root.storageArray.arrayGroup.pdev.logicalUnit.path.worldWideName.wwn_string = ..WorldWideName@wwn
+root.storageArray.arrayGroup.pdev.logicalUnit.path.worldWideName.nickname_string = ..WorldWideName@nickname

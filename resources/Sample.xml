@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<county name="Santa Clara">
+    <city name="San Jose">
+        <school address="121 Fist Street" maxStudent="230">
+            <class grade="5">
+                <student age="21">
+                    <firstName>Darren</firstName>
+                    <lastName>Mark</lastName>
+                </student>
+            </class>
+        </school>
+    </city>
+    <city name="Santa Clara">
+        <school address="232 Jackson St." maxStudent="531">
+            <class grade="5">
+                <student age="24">
+                    <firstName>Robin</firstName>
+                    <lastName>Hood</lastName>
+                </student>
+            </class>
+        </school>
+        <school address="1001 Erie Cir" maxStudent="3451">
+            <class grade="5">
+                <student age="15">
+                    <firstName>James</firstName>
+                    <lastName>Cook</lastName>
+                </student>
+            </class>
+        </school>
+    </city>
+</county>
